@@ -1,7 +1,7 @@
 {
-    "name": "Insane Music Bot",
+    "name": "SR Music Bot",
     "description": "Insane Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg",
+    "logo": "https://graph.org/file/9e098c22af997c8f620a7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TheTeamInsane/TeamInsaneMusic",
+        "value": "https://github.com/SRN-TECHNO/SrhouseMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
